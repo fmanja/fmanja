@@ -8,7 +8,7 @@ With over a decade of federal-service and private sector experience, I bridge th
 
 <b>AI Position Description Generator</b>
 
-An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployed on AWS EC2.
+An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployed on AWS EC2. 
 
 <b>Features</b>
 
@@ -31,6 +31,10 @@ An AI-powered tool to generate professional federal government job descriptions 
 ✅ Responsive design with Tailwind CSS
 
 ✅ EC2 deployment
+
+<b>License</b>
+
+Apache 2.0
 
 <!--
 **fmanja/fmanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
