@@ -4,6 +4,8 @@ I’m Frank Manja — I am obsessed with applying Generative AI to real world ap
 
 With over a decade of federal-service and private sector experience, I bridge the worlds of human capital, enterprise analytics, and cutting-edge AI/ML/cloud engineering. I employ a diverse set of technologies (ChatGPT, Claude, Llama, AWS, Vercel, Redis, Postgres, Oracle, Python, SQL, React, Next.js and TypeScript) to turn data, systems, and processes into strategic advantage.
 
+Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manja-b6986617/. 
+
 ## Projects
 
 <b>AI Position Description Generator</b>
