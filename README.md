@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 
 
 I’m Frank Manja — I am obsessed with applying Generative AI to real world applications. My career journey has included Dept. of Justice, Dept. of Energy, IBM, Emory University and The World Bank.
 
