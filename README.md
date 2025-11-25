@@ -4,9 +4,11 @@ I’m Frank Manja — I am obsessed with applying Generative AI to real world ap
 
 With over a decade of federal-service and private sector experience, I bridge the worlds of human capital, enterprise analytics, and cutting-edge AI/ML/cloud engineering. I employ a diverse set of technologies (ChatGPT, Claude, Llama, AWS, Vercel, Redis, Postgres, Oracle, Python, SQL, React, Next.js and TypeScript) to turn data, systems, and processes into strategic advantage.
 
-## 2026 Projects
+## Projects
 
-In 2026, I will release several open source projects starting with an <b>AI Position Description Generator</b>. 
+<b>AI Position Description Generator</b>
+
+An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployed on AWS EC2.
 
 <b>Features</b>
 
