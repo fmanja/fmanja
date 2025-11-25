@@ -10,29 +10,35 @@ Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manj
 
 <b>AI Position Description Generator</b>
 
-An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployed on AWS EC2. 
+An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployed on AWS EC2. You can clone the project from https://github.com/fmanja/nextjs-hrpdgenerator. 
 
 <b>Features</b>
 
-✅ Generate professional federal government job descriptions using Claude AI via AWS Bedrock
+- Generate professional federal government job descriptions using Claude AI via AWS Bedrock
 
-✅ OPM (Office of Personnel Management) job family and series data integration
+- OPM (Office of Personnel Management) job family and series data integration
 
-✅ Support for multiple pay scales (GS, SES, ES, SL, ST, and others)
+- Support for multiple pay scales (GS, SES, ES, SL, ST, and others)
 
-✅ Zod validation for all form inputs (client-side and server-side)
+- Zod validation for all form inputs (client-side and server-side)
 
-✅ Clean separation of concerns: React components call Next.js API routes
+- Clean separation of concerns: React components call Next.js API routes
 
-✅ TypeScript for type safety
+- TypeScript for type safety
 
-✅ Loading states and error handling
+- Loading states and error handling
 
-✅ Field-level validation with user-friendly error messages
+- Field-level validation with user-friendly error messages
 
-✅ Responsive design with Tailwind CSS
+- esponsive design with Tailwind CSS
 
-✅ EC2 deployment
+- C2 deployment
+
+<b> Documentation </b>
+
+- Security
+- Architecture
+- Deployment
 
 <b>License</b>
 
