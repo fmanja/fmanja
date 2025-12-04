@@ -8,7 +8,7 @@ Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manj
 
 ## Projects
 
-<b>AI Position Description Generator</b>
+<b>1. AI Position Description Generator (Level: Intermediate)</b>
 
 An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployable on AWS EC2, Vercel, or other Node.js hosted environments. 
 
@@ -16,7 +16,7 @@ A live demo is available at https://nextjs-hrpdgenerator.vercel.app.
 
 You can clone the project from https://github.com/fmanja/nextjs-hrpdgenerator. 
 
-This project is intended to be a comprehensive starter project for any Human Resource Department and Office of the Chief Information Officer that wants to get a quick win with mininal risk - all code is open source and can be easily deployed to GovCloud. 
+This project is intended to be a comprehensive project for any Human Resource Department and Office of the Chief Information Officer that wants to get a quick win with mininal risk - all code is open source and can be easily deployed to GovCloud. 
 
 <b>Features</b>
 
@@ -64,3 +64,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<b>2. AI SF-50 Generator (Level: Intermediate)</b>
+
+A focused, standalone Next.js application that demonstrates the AI Assistant functionality for generating SF-50 (Standard Form 50) personnel action form recommendations for the federal government. This application uses AWS Bedrock with Claude models to recommend appropriate Nature of Action (NOA) codes based on employee scenarios.
+
+A live demo is available at https://nextjs-sf50generator.vercel.app.
+
+You can clone the project at https://github.com/fmanja/nextjs-sf50generator.
+
+This project is intended to be a comprehensive project for any Human Resource Department and Office of the Chief Information Officer that wants to get a durable win with mininal risk - all code is open source and can be easily deployed to GovCloud. 
+
+<b>Features</b>
+
+- Generate professional SF-50 (Standard Form 50)
+- Enter realistic scenarios using Natural Language
+- AI recommendations for NOA Codes, Legal Authority Codes, OPM NOA Remarks and Remark Codes
+- Interactive Chatbot for follow-up and clarifying questions
+- Real-time Refinement provides more accurate recommendations as you provide additional information
+- PDF Generation with employee information and AI recommendations automatically populated in the downloadable PDF
+
+<b> Documentation </b>
+
+- Security
+- Architecture
+- Deployment
+
+<b>License</b>
+
+Apache 2.0
+
