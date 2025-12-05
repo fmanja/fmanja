@@ -1,4 +1,4 @@
-## Hi 
+# About Me
 
 I’m Frank Manja — I am obsessed with applying Generative AI to real world applications. My career journey has included Dept. of Justice, Dept. of Energy, IBM, Emory University and The World Bank.
 
@@ -8,7 +8,9 @@ Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manj
 
 ## Projects
 
-<b>1. AI Position Description Generator (Level: Intermediate)</b>
+<b>1. AI Position Description Generator (Level: Beginner)</b>
+
+<img width="1251" height="686" alt="PD_Generator_Form" src="https://github.com/user-attachments/assets/3b7565b7-9219-42b9-bc72-5cd4b636d55e" />
 
 An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployable on AWS EC2, Vercel, or other Node.js hosted environments. 
 
@@ -24,17 +26,8 @@ This project is intended to be a comprehensive project for any Human Resource De
 - OPM (Office of Personnel Management) job family and series data integration
 - Support for multiple pay scales (GS, SES, ES, SL, ST, and others)
 
-<b> Included Documentation </b>
-
-- Security
-- Architecture
-- Deployment
-
-<b>License</b>
-
-Apache 2.0
-
 <b>2. AI SF-50 Generator (Level: Intermediate)</b>
+<img width="1512" height="782" alt="Get_Recommendation" src="https://github.com/user-attachments/assets/596ef6ca-cdbc-4696-869b-cd7c99419b05" />
 
 A focused, standalone Next.js application that demonstrates the AI Assistant functionality for generating SF-50 (Standard Form 50) personnel action form recommendations for the federal government. This application uses AWS Bedrock with Claude models to recommend appropriate Nature of Action (NOA) codes based on employee scenarios.
 
@@ -53,12 +46,4 @@ This project is intended to be a comprehensive project for any Human Resource De
 - Real-time Refinement provides more accurate recommendations as you provide additional information
 - PDF Generation with employee information and AI recommendations automatically populated in the downloadable PDF
 
-<b> Included Documentation </b>
-
-- Security
-- Architecture
-
-<b>License</b>
-
-Apache 2.0
 
