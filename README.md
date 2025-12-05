@@ -21,26 +21,10 @@ This project is intended to be a comprehensive project for any Human Resource De
 <b>Features</b>
 
 - Generate professional federal government job descriptions using Claude AI via AWS Bedrock
-
 - OPM (Office of Personnel Management) job family and series data integration
-
 - Support for multiple pay scales (GS, SES, ES, SL, ST, and others)
 
-- Zod validation for all form inputs (client-side and server-side)
-
-- Clean separation of concerns: React components call Next.js API routes
-
-- TypeScript for type safety
-
-- Loading states and error handling
-
-- Field-level validation with user-friendly error messages
-
-- esponsive design with Tailwind CSS
-
-- C2 deployment
-
-<b> Documentation </b>
+<b> Included Documentation </b>
 
 - Security
 - Architecture
@@ -49,21 +33,6 @@ This project is intended to be a comprehensive project for any Human Resource De
 <b>License</b>
 
 Apache 2.0
-
-<!--
-**fmanja/fmanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <b>2. AI SF-50 Generator (Level: Intermediate)</b>
 
@@ -84,11 +53,10 @@ This project is intended to be a comprehensive project for any Human Resource De
 - Real-time Refinement provides more accurate recommendations as you provide additional information
 - PDF Generation with employee information and AI recommendations automatically populated in the downloadable PDF
 
-<b> Documentation </b>
+<b> Included Documentation </b>
 
 - Security
 - Architecture
-- Deployment
 
 <b>License</b>
 
