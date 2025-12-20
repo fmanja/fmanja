@@ -6,6 +6,8 @@ With over a decade of federal-service and private sector experience, I bridge th
 
 Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manja-b6986617/. 
 
+Disclaimer: All views and opinions expressed here are my own and do not represent those of my employer, past or present, or any affiliated organizations. Any work shared is personal and created outside my professional duties.
+
 ## Projects
 
 <b>1. AI Position Description Generator (Level: Beginner)</b>
