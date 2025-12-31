@@ -8,9 +8,7 @@ Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manj
 
 Disclaimer: All views and opinions expressed here are my own and do not represent those of my employer, past or present, or any affiliated organizations. Any work shared is personal and created outside my professional duties.
 
-## Projects
-
-<b>1. AI Position Description Generator (Level: Beginner)</b>
+## Projects 1. AI Position Description Generator (Level: Beginner)
 
 <img width="1251" height="686" alt="PD_Generator_Form" src="https://github.com/user-attachments/assets/3b7565b7-9219-42b9-bc72-5cd4b636d55e" />
 
@@ -26,7 +24,7 @@ This project is intended to be a comprehensive project for any Human Resource De
 - OPM (Office of Personnel Management) job family and series data integration
 - Support for multiple pay scales (GS, SES, ES, SL, ST, and others)
 
-<b>2. AI SF-50 Generator (Level: Intermediate)</b>
+## Project 2. AI SF-50 Generator (Level: Intermediate)
 <img width="1512" height="782" alt="Get_Recommendation" src="https://github.com/user-attachments/assets/596ef6ca-cdbc-4696-869b-cd7c99419b05" />
 
 A focused, standalone Next.js application that demonstrates the AI Assistant functionality for generating SF-50 (Standard Form 50) personnel action form recommendations for the federal government. This application uses AWS Bedrock with Claude models to recommend appropriate Nature of Action (NOA) codes based on employee scenarios.
