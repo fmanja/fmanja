@@ -42,4 +42,18 @@ This project is intended to be a comprehensive project for any Human Resource De
 - Real-time Refinement provides more accurate recommendations as you provide additional information
 - PDF Generation with employee information and AI recommendations automatically populated in the downloadable PDF
 
+## Project 3. AI Magazine Marketing (Level: Advanced)
+<img width="864" height="456" alt="AIMM-1" src="https://github.com/user-attachments/assets/16624cee-545a-48df-b004-b86b1eff822c" />
 
+A modern Next.js application for managing magazine marketing operations with advanced AI assistance, real-time database analytics, and comprehensive business intelligence. This platform provides complete tools for sales representatives, customer management, magazine portfolio tracking, proposal management, analytics, dynamic KPI management, RAG-powered content search, and real-time AI-powered business analysis.
+
+Contact me directly for a demo of this project.
+
+<b>Features</b>
+- Advanced AI Assistant with LLM Tools, Query Classifier, RAG, Cache, Logging, and Evaluations.
+- Role Based Access for Administrators, Sales Managers, and Sales Reps
+- File Uploads for data refreshes
+- CRUD operations for a production application
+- Authentication system for all users and protected API routes
+
+This project is intended to be a sample project for a private sector marketing company. The project has been deployed to AWS and Vercel.   
