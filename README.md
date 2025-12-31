@@ -10,8 +10,11 @@ Disclaimer: All views and opinions expressed here are my own and do not represen
 
 ## Projects 1. AI Position Description Generator (Level: Beginner)
 
+### Screenshots
+<b>Position Description Form</b>
 <img width="1251" height="686" alt="PD_Generator_Form" src="https://github.com/user-attachments/assets/3b7565b7-9219-42b9-bc72-5cd4b636d55e" />
 
+<b>AI Generated Position Description</b>
 <img width="1251" height="686" alt="PD_Generator_Results" src="https://github.com/fmanja/nextjs-hrpdgenerator/blob/main/images/PD_Generator_Results.png" />
 
 An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployable on AWS EC2, Vercel, or other Node.js hosted environments. 
@@ -20,15 +23,19 @@ You can clone the project from https://github.com/fmanja/nextjs-hrpdgenerator.
 
 This project is intended to be a comprehensive project for any Human Resource Department and Office of the Chief Information Officer that wants to get a quick win with mininal risk - all code is open source and can be easily deployed to GovCloud. 
 
-<b>Features</b>
+### Features
 
 - Generate professional federal government job descriptions using Claude AI via AWS Bedrock
 - OPM (Office of Personnel Management) job family and series data integration
 - Support for multiple pay scales (GS, SES, ES, SL, ST, and others)
 
 ## Project 2. AI SF-50 Generator (Level: Intermediate)
+
+### Screenshots
+<b>Employee Scenario Form</b>
 <img width="1512" height="782" alt="Get_Recommendation" src="https://github.com/user-attachments/assets/596ef6ca-cdbc-4696-869b-cd7c99419b05" />
 
+<b>AI Recommendations and Follow-ups</b>
 <img width="1512" height="782" alt="Get_Recommendation" src="https://github.com/fmanja/nextjs-sf50generator/raw/main/images/Initial_Recommendation_FollowUps.png" />
 
 A focused, standalone Next.js application that demonstrates the AI Assistant functionality for generating SF-50 (Standard Form 50) personnel action form recommendations for the federal government. This application uses AWS Bedrock with Claude models to recommend appropriate Nature of Action (NOA) codes based on employee scenarios.
