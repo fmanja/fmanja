@@ -16,8 +16,6 @@ Disclaimer: All views and opinions expressed here are my own and do not represen
 
 An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployable on AWS EC2, Vercel, or other Node.js hosted environments. 
 
-A live demo is available at https://nextjs-hrpdgenerator.vercel.app. 
-
 You can clone the project from https://github.com/fmanja/nextjs-hrpdgenerator. 
 
 This project is intended to be a comprehensive project for any Human Resource Department and Office of the Chief Information Officer that wants to get a quick win with mininal risk - all code is open source and can be easily deployed to GovCloud. 
@@ -32,8 +30,6 @@ This project is intended to be a comprehensive project for any Human Resource De
 <img width="1512" height="782" alt="Get_Recommendation" src="https://github.com/user-attachments/assets/596ef6ca-cdbc-4696-869b-cd7c99419b05" />
 
 A focused, standalone Next.js application that demonstrates the AI Assistant functionality for generating SF-50 (Standard Form 50) personnel action form recommendations for the federal government. This application uses AWS Bedrock with Claude models to recommend appropriate Nature of Action (NOA) codes based on employee scenarios.
-
-A live demo is available at https://nextjs-sf50generator.vercel.app.
 
 You can clone the project at https://github.com/fmanja/nextjs-sf50generator.
 
