@@ -4,6 +4,11 @@ I’m Frank Manja — I am obsessed with applying Generative AI to real world ap
 
 I’m building a suite of HR + AI tools fully open source. If you’re working on AI in government, HR tech, or regulated enterprise environments, I’d love to connect and compare notes. Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manja-b6986617/. 
 
+### Open Source Project Summaries
+- AI-Position Description Generator to produce OPM compliant position descriptions for job vacancies using Claude 3.5.
+- AI-Personnel Action Request Form Generator to produce OPM compliant SF-50 forms for any type of federal personnel action using Claude 3.5.
+- Fine-tuned meta-llama/Llama-3.2-3B model to recommend Nature of Action (NOA) codes for processing personnel action requests for federal employees based on common scenarios in accordance with OPM standards using QLoRA.
+
 Disclaimer: All views and opinions expressed here are my own and do not represent those of my employer, past or present, or any affiliated organizations. Any work shared is personal and created outside my professional duties.
 
 ---
@@ -31,7 +36,7 @@ This project is an Open Source and available at https://github.com/fmanja/nextjs
 
 ---
 
-# AI SF-50 Generator (Open Source)
+# AI-Personnel Action Request Form Generator (Open Source)
 
 A focused, standalone Next.js application that demonstrates the AI Assistant functionality for generating SF-50 (Standard Form 50) personnel action form recommendations for the federal government. This application uses AWS Bedrock with Claude models to recommend appropriate Nature of Action (NOA) codes based on employee scenarios.
 
@@ -55,7 +60,7 @@ This project is an Open Source and available at https://github.com/fmanja/nextjs
 - Real-time Refinement provides more accurate recommendations as you provide additional information
 - PDF Generation with employee information and AI recommendations automatically populated in the downloadable PDF
 
-# Fine-Tuned Llama 3.2 3B for Human Resources (Open Source)
+# Fine-tuned meta-llama/Llama-3.2-3B (Open Source)
 
 In this project the meta-llama/Llama-3.2-3B model was finetuned using QLoRA to recommend Nature of Action (NOA) for processing personnel action requests for federal employees based on common scenarios. NOA codes are unique numerical identifiers for every personnel action (like promotions, appointments, or retirements) in the U.S. Federal government, used for data processing on forms like the SF-50, with categories 000-899 for standard actions and 900-999 for agency-specific matters, all detailed in OPM's Guide to Processing Personnel Actions (GPPA).
 
