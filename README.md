@@ -8,11 +8,15 @@ Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manj
 
 Disclaimer: All views and opinions expressed here are my own and do not represent those of my employer, past or present, or any affiliated organizations. Any work shared is personal and created outside my professional duties.
 
-## Projects 1. AI Position Description Generator (Level: Beginner)
+---
+
+# AI Position Description Generator (Open Source)
 
 An AI-powered tool to generate professional federal government job descriptions using AWS Bedrock with Claude 3.5 Sonnet. Built with Next.js 16, TypeScript, and deployable on AWS EC2, Vercel, or other Node.js hosted environments. 
 
 This project is intended to be a comprehensive project for any Human Resource Department and Office of the Chief Information Officer that wants to get a quick win with mininal risk - all code is open source and can be easily deployed to GovCloud. 
+
+This project is an Open Source and available at https://github.com/fmanja/nextjs-hrpdgenerator.
 
 ### Screenshots
 <b>Position Description Form</b>
@@ -27,11 +31,15 @@ This project is intended to be a comprehensive project for any Human Resource De
 - OPM (Office of Personnel Management) job family and series data integration
 - Support for multiple pay scales (GS, SES, ES, SL, ST, and others)
 
-## Project 2. AI SF-50 Generator (Level: Intermediate)
+---
+
+# AI SF-50 Generator (Open Source)
 
 A focused, standalone Next.js application that demonstrates the AI Assistant functionality for generating SF-50 (Standard Form 50) personnel action form recommendations for the federal government. This application uses AWS Bedrock with Claude models to recommend appropriate Nature of Action (NOA) codes based on employee scenarios.
 
 This project is intended to be a comprehensive project for any Human Resource Department and Office of the Chief Information Officer that wants to get a durable win with mininal risk - all code is open source and can be easily deployed to GovCloud. 
+
+This project is an Open Source and available at https://github.com/fmanja/nextjs-sf50generator.
 
 ### Screenshots
 <b>Employee Scenario Form</b>
@@ -49,7 +57,24 @@ This project is intended to be a comprehensive project for any Human Resource De
 - Real-time Refinement provides more accurate recommendations as you provide additional information
 - PDF Generation with employee information and AI recommendations automatically populated in the downloadable PDF
 
-## Project 3. AI Magazine Marketing (Level: Advanced)
+# Fine-Tuned Llama 3.2 3b for Human Resources (Open Source)
+
+In this project the meta-llama/Llama-3.2-3B model was finetuned using QLoRA to recommend Nature of Action (NOA) for processing personnel action requests for federal employees based on common scenarios. NOA codes are unique numerical identifiers for every personnel action (like promotions, appointments, or retirements) in the U.S. Federal government, used for data processing on forms like the SF-50, with categories 000-899 for standard actions and 900-999 for agency-specific matters, all detailed in OPM's Guide to Processing Personnel Actions (GPPA).
+
+This project is an Open Source and available at https://huggingface.co/fmanja/llama-3.2-3b-qlora-finetuned-hr.
+
+### Screenshots
+<b>Model Card</b>
+<img width="1503" height="815" alt="NOA-FineTuned Model" src="https://github.com/user-attachments/assets/c345fa91-e504-4e0d-8d36-5043bf4c3a94" />
+
+<b>Training Data</b>
+<img width="1503" height="815" alt="NOA-Training Data" src="https://github.com/user-attachments/assets/a5e5b764-f202-439a-a8aa-a95d20cd293b" />
+
+<!--
+
+---
+
+## Project 4. AI Magazine Marketing (Level: Advanced)
 
 A modern Next.js application for managing magazine marketing operations with advanced AI assistance, real-time database analytics, and comprehensive business intelligence. This platform provides complete tools for sales representatives, customer management, magazine portfolio tracking, proposal management, analytics, dynamic KPI management, RAG-powered content search, and real-time AI-powered business analysis.
 
@@ -71,5 +96,6 @@ A modern Next.js application for managing magazine marketing operations with adv
 
 The AI Magazine Marketing Application uses the most cutting-edge LLM, LLM Caching, RAG, Programming Frameworks and Agentic Development tools: ChatGPT, Pinecone, Redis, Postgres, Next.js, React, GitHub, Cursor AI, TypeScript, and Prisma.
 
+
 <img width="544" height="332" alt="AIMM-3" src="https://github.com/user-attachments/assets/c727cc28-7c99-4def-91a9-42b3b592a3b6" />
- 
+--> 
