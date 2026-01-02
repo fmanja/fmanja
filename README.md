@@ -1,10 +1,8 @@
 # About Me
 
-I’m Frank Manja — I am obsessed with applying Generative AI to real world applications. My career journey has included Dept. of Justice, Dept. of Energy, IBM, Emory University and The World Bank.
+I’m Frank Manja — I am obsessed with applying Generative AI to real world applications. My career journey has included Dept. of Justice, Dept. of Energy, IBM, Emory University and The World Bank. 
 
-With over a decade of federal-service and private sector experience, I bridge the worlds of human capital, enterprise analytics, and cutting-edge AI/ML/cloud engineering. I employ a diverse set of technologies (ChatGPT, Claude, Llama, AWS, Vercel, Redis, Postgres, Oracle, Python, SQL, React, Next.js and TypeScript) to turn data, systems, and processes into strategic advantage.
-
-Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manja-b6986617/. 
+I’m building a suite of HR + AI tools fully open source. If you’re working on AI in government, HR tech, or regulated enterprise environments, I’d love to connect and compare notes. Feel free to connect with me on LinkedIn, https://www.linkedin.com/in/frank-manja-b6986617/. 
 
 Disclaimer: All views and opinions expressed here are my own and do not represent those of my employer, past or present, or any affiliated organizations. Any work shared is personal and created outside my professional duties.
 
@@ -57,7 +55,7 @@ This project is an Open Source and available at https://github.com/fmanja/nextjs
 - Real-time Refinement provides more accurate recommendations as you provide additional information
 - PDF Generation with employee information and AI recommendations automatically populated in the downloadable PDF
 
-# Fine-Tuned Llama 3.2 3b for Human Resources (Open Source)
+# Fine-Tuned Llama 3.2 3B for Human Resources (Open Source)
 
 In this project the meta-llama/Llama-3.2-3B model was finetuned using QLoRA to recommend Nature of Action (NOA) for processing personnel action requests for federal employees based on common scenarios. NOA codes are unique numerical identifiers for every personnel action (like promotions, appointments, or retirements) in the U.S. Federal government, used for data processing on forms like the SF-50, with categories 000-899 for standard actions and 900-999 for agency-specific matters, all detailed in OPM's Guide to Processing Personnel Actions (GPPA).
 
